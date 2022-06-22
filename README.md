@@ -1,2 +1,2 @@
-# Flutter-calculator
- Basic calculator mobile app created in Flutter
+# Kotlin-calculator
+ Basic calculator mobile app created in Kotlin
